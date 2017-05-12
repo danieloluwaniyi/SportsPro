@@ -1,0 +1,82 @@
+﻿.banner-style {
+            width: 150px;
+            height: 150px;
+        }
+
+ .auto-style1 {
+            display: inline-block;
+            padding: 6px 12px;
+            margin-bottom: 0;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 1.42857143;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: middle;
+            -ms-touch-action: manipulation;
+            touch-action: manipulation;
+            cursor: pointer;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            background-image: none;
+            border: 1px solid transparent;
+            border-radius: 4px;
+            margin-left: 22px;
+        }
+        .auto-style2 {
+            display: inline-block;
+            padding: 6px 12px;
+            margin-bottom: 0;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 1.42857143;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: middle;
+            -ms-touch-action: manipulation;
+            touch-action: manipulation;
+            cursor: pointer;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            background-image: none;
+            border: 1px solid transparent;
+            border-radius: 4px;
+            margin-left: 53;
+        }
+
+        .rdioLst label
+        {
+            font-weight:normal;
+            font-size:90%;
+            padding-left: 5px;
+            padding-right: 10px;
+
+        }
+
+        .table a {
+    color: #8c8c8c;
+}
+
+.bg-halloween {
+    background-color: #8c8c8c;
+    color: white;
+    font-weight: bold;
+}
+
+.altRow {
+    background-color: #f9f9f9;
+}
+
+.col-edit { 
+    padding-left: 0;
+    padding-right: 5px;
+}
+
+/* Server control styles */
+#btnAdd {
+    margin-bottom: 1em;
+}
